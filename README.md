@@ -8,24 +8,24 @@ Welcome to the Practice Problems repository! This repository is a collection of 
   - [Table of Contents](#table-of-contents)
   - [Getting Started](#getting-started)
   - [Structure of the Repository](#structure-of-the-repository)
-  - [](#)
+  - [Contributing](#contributing)
   - [License](#license)
 
 ## Getting Started
 
 To get started with the practice problems, follow these steps:
 
-Clone the repository to your local machine using the following command:
+1. Clone the repository to your local machine using the following command:
 
-```bash
-git clone https://github.com/mrizwanashiq/practice-problems.git
-```
+   ```bash
+   git clone https://github.com/mrizwanashiq/practice-problems.git
+   ```
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 
-```bash
-cd practice-problems
-```
+   ```bash
+   cd practice-problems
+   ```
 
 ## Structure of the Repository
 
@@ -42,7 +42,7 @@ Each problem is represented by a separate directory (problem-1, problem-2, etc.)
 Inside each problem directory, you will find the README.md file containing the problem description, examples, and sometimes hints to help you solve the problem.
 Implement your solution in a programming language of your choice. You can create a new file with the appropriate file extension (solution.py, solution.cpp, solution.java, etc.) or modify the existing one if it is already present.
 
-##
+## Contributing
 
 Contributions to this repository are welcome! If you would like to add new problems, improve existing problems, or suggest any changes, please follow these steps:
 

@@ -31,16 +31,18 @@ To get started with the practice problems, follow these steps:
 
 The repository is organized as follows:
 
+```
 practice-problems/
 ├── basics/
 │ ├── 1.variable.md
 │ ├── 2.if-else.md
 │ ├── 3.loop.md
 │ ├── 4.array.md
+```
 
 Each problem is represented by a separate directory (problem-1, problem-2, etc.).
 Inside each problem directory, you will find the README.md file containing the problem description, examples, and sometimes hints to help you solve the problem.
-Implement your solution in a programming language of your choice. You can create a new file with the appropriate file extension (solution.py, solution.cpp, solution.java, etc.) or modify the existing one if it is already present.
+Implement your solution in a programming language of your choice. You can create a new file with the appropriate file extension (solution.js, solution.cpp, solution.java, etc.) or modify the existing one if it is already present.
 
 ## Contributing
 

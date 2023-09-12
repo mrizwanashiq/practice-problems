@@ -80,4 +80,4 @@ Once your pull request is reviewed and accepted, it will be merged into the main
 
 The content of this repository is licensed under the MIT License. Feel free to use, modify, and distribute the code for personal or commercial purposes. Refer to the LICENSE file for more details.
 
-Happy coding!
+Happy coding! 🤩
